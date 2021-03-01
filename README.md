@@ -15,6 +15,8 @@ git push -u origin master ส่งไฟล์ขึ้นครั้งแร
 
 git push origin master ส่งไฟล์ขึ้น Remote
 
+http://rogerdudler.github.io/git-guide/
+
 
 
 
